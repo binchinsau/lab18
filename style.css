@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: rgb(87, 87, 87);
+  background-size: cover;
+  background-image: url(https://as2.ftcdn.net/v2/jpg/02/00/68/69/1000_F_200686968_KS9NVTJgvjMQs2FniVHyIJaAIcg5p7D0.jpg);
+}
+.bg-img2 {
+  background-color: rgb(87, 87, 87);
+  background-size: cover;
+  background-image: url(https://as2.ftcdn.net/v2/jpg/05/59/67/61/1000_F_559676155_zPSf1PsoYXwIfokj3ELjJks601asN8Vd.jpg);
+}
+.bg-img3 {
+  background-color: rgb(87, 87, 87);
+  background-size: cover;
+  background-image: url(https://as1.ftcdn.net/v2/jpg/05/64/34/68/1000_F_564346806_l6tNHL38IlQsr2cdBUmTaNQFlL3yxaKp.jpg);
+}
+body {
+  background-color: rgb(193, 191, 191);
+}
